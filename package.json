@@ -1,27 +1,27 @@
 {
-    "name": "legible-starry-night",
-    "displayName": "Legible Starry Night",
-    "description": "Dark, low contrast theme for VS Code based on jerry's Starry Night, tweaked a bit for better readbility.",
-    "version": "1.0.0",
-    "publisher": "zzandy",
-    "engines": {
-        "vscode": "^0.10.0"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/zzandy/legible-starry-night"
-    },
-    "icon": "icon.png",
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Legible Starry Night",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Legible Starry Night-color-theme.json"
-            }
-        ]
-    }
+  "name": "legible-starry-night",
+  "displayName": "Legible Starry Night",
+  "description": "Dark, low contrast theme for VS Code based on jerry's Starry Night, tweaked a bit for better readbility.",
+  "version": "1.1.0",
+  "publisher": "zzandy",
+  "engines": {
+    "vscode": "^0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zzandy/legible-starry-night"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Legible Starry Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Legible Starry Night-color-theme.json"
+      }
+    ]
+  }
 }
