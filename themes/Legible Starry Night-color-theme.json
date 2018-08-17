@@ -11,12 +11,6 @@
 	},
 	"tokenColors": [
 		{
-			"settings": {
-				"foreground": "#949494ff",
-				"background": "#1a1a1aff"
-			}
-		},
-		{
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
@@ -163,7 +157,6 @@
 			"name": "Invalid",
 			"scope": "invalid",
 			"settings": {
-				"background": "#380D0D",
 				"fontStyle": "",
 				"foreground": "#853838"
 			}
@@ -172,7 +165,6 @@
 			"name": "Invalid deprecated",
 			"scope": "invalid.deprecated",
 			"settings": {
-				"background": "#2E263B",
 				"foreground": "#999988"
 			}
 		},
