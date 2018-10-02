@@ -2,7 +2,7 @@
   "name": "legible-starry-night",
   "displayName": "Legible Starry Night",
   "description": "Dark, low contrast theme for VS Code based on jerry's Starry Night, tweaked a bit for better readbility.",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "publisher": "zzandy",
   "engines": {
     "vscode": "^0.10.0"
